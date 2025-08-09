@@ -18,3 +18,11 @@ A function that returns the number that appears the most in a given array. If no
 
 - Challenge 02: Minimum Value  
   [Minimum-Value](./challenges/README.md)
+
+### Table of Contents
+
+## Whiteboard Imagess
+
+### Challenge 03: Reverse Characters
+
+[![Reverse-Characters](challenges/Reverse-Characters/reverse-characters-screenshot.png)](challenges/Reverse-Characters/README.md)
