@@ -19,3 +19,5 @@ Head -> 5 -> 20 -> 15 -> 30 -> Null
 ## Output
 
 ![Console output screenshot](./console-output.png)
+
+- [Linked List Reverse](Reverse\README.md)
